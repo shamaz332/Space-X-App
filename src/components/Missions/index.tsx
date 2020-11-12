@@ -84,7 +84,6 @@ const useStyles = makeStyles((theme: Theme) =>
 
 const SpaceMission = () => {
   const [id, setId] = React.useState(42);
-  console.log(id)
   const handleIdChange = React.useCallback((newId: any) => {
     setId(newId);
   }, []);

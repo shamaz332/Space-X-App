@@ -1,7 +1,7 @@
 import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import SpaceMission from './components/LaunchedMissions/index'
+import SpaceMission from './components/Missions/index'
 
 function App() {
 
